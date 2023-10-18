@@ -1,0 +1,34 @@
+{
+  "term": "Summer",
+  "year": "",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "ff"
+  },
+  "course_image": {
+    "content": "",
+    "website": "ff"
+  },
+  "course_title": "ff",
+  "hide_download": false,
+  "course_description": "",
+  "department_numbers": [
+    "2"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "1",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "ff"
+  },
+  "learning_resource_types": [
+    "Competition Videos"
+  ],
+  "site_uid": "8a2a3699-4bda-4d76-8437-1f81db3e270a",
+  "site_short_id": "ff"
+}
